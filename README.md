@@ -2,6 +2,8 @@
 
 炒饭商学院的桌面应用（macOS、Windows、Linux）的下载页。这里只放发布的版本，不放源码。
 
+> **非官方应用，开发者自用。** 和小鹅通、炒饭商学院官方都没有关系，不是它们发布或认可的；要用自己的账号扫码登录，只能看自己已购的课程。
+
 ## 下载
 
 到 [Releases](https://github.com/gaau2je5/chaofanhui_release/releases/latest) 下载最新版本，按你的系统选一个文件。文件名不带版本号，下面的链接总是最新版本：
